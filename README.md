@@ -7,6 +7,7 @@ ArmorPaint, 3D PBR, Texture Painting, blender
 
 <img src="https://armorpaint.org/img/x.jpg" alt="ARMORPAINT" />
 
+<h3><a href="https://github.com/DevAnlim/ArmorPaint-3D-PBR-Texture-Painting/archive/0.7.zip">Download V0.7</a></h3>
 
 <br>
 3D Painting Software
