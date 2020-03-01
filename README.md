@@ -19,7 +19,7 @@
 ArmorPaint is a stand-alone software designed for physically-based texture painting. Drag & drop your 3D models and start painting. Receive instant visual feedback in the viewport as you paint.
 Node Based
 Work fast with the convenience of nodes. Paint with fully procedural materials. Build fill layers with material nodes. Use brush nodes to create patterns and procedural brushes.
-<br>
+<br><br>
 
 GPU Accelerated
 ArmorPaint is designed from scratch to run completely on the GPU. This results in a smooth 4K painting experience on a medium-power integrated hardware. Up to 16K texture painting is seamless using a high-end graphics card.
