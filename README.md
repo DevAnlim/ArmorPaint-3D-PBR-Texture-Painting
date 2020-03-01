@@ -38,5 +38,5 @@ ArmorPaint bets heavily on extensibility. Enhance any part of the software throu
 
 
 <br>
-<h6 color="#db212d">The project is not proprietary <br>
+<h6 color="#D90F0F">The project is not proprietary <br>
 AnLim Mobile Groups</h6>
