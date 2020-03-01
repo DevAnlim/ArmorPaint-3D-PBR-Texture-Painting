@@ -5,6 +5,9 @@ ArmorPaint, 3D PBR, Texture Painting, blender
 <h1>Mac OS: NO</h1>
 <h1>Linux: NO</h1>
 
+<img src="https://armorpaint.org/img/x.jpg" alt="ARMORPAINT" />
+
+
 <br>
 3D Painting Software
 ArmorPaint is a stand-alone software designed for physically-based texture painting. Drag & drop your 3D models and start painting. Receive instant visual feedback in the viewport as you paint.
