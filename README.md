@@ -35,3 +35,8 @@ Bake texture maps for high-poly models instantly on your GPU. First ArmorPaintDX
 <br>
 Plugins
 ArmorPaint bets heavily on extensibility. Enhance any part of the software through plugins with god-mode powers. Integrate new node systems or build custom material nodes.
+
+
+<br>
+<h6 color="#db212d">The project is not proprietary <br>
+AnLim Mobile Groups</h6>
