@@ -1,9 +1,14 @@
 # ArmorPaint-3D-PBR-Texture-Painting
-ArmorPaint, 3D PBR, Texture Painting, blender
 
-<h1>Windows: Yes</h1>
-<h1>Mac OS: NO</h1>
-<h1>Linux: NO</h1>
+<h2>Official website and repository</h2>
+<h3><a href="https://armorpaint.org">Official site</a></h3>
+<h3><a href="https://github.com/armory3d/armorpaint">armory3d</a></h3>
+
+<h2>Executable file EXE</h2>
+
+<h4>Windows: Yes</h4>
+<h4>Mac OS: NO</h4>
+<h4>Linux: NO</h4>
 
 <img src="https://armorpaint.org/img/x.jpg" alt="ARMORPAINT" />
 
